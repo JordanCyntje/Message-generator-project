@@ -8,8 +8,9 @@ body {
     background-size: cover;
     background-color: bisque;
     color: white ;
-    font-size: larger;
+    font-size: 35px;
     align-items: center;
+    text-shadow: 1px 1px 5px rgb(0, 0, 0);
 }
 
 .boxcontent {
@@ -24,6 +25,12 @@ body {
     margin: auto;
     width: 75%;
     padding: 100px;
+    position: absolute;
+    top: 150px;;
+    bottom: 150px;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
 
 
