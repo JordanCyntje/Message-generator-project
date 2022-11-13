@@ -1,12 +1,12 @@
 
 body {
     font-family: "Sofia", sans-serif;
-    /*background-image: url(https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);*/
-    height: 100%;
+    background-image: url(https://images.hdqwalls.com/download/forest-mist-trees-4k-u1-2560x1440.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: bisque;
+    height: 100%;
     color: white ;
     font-size: 35px;
     align-items: center;
@@ -16,14 +16,15 @@ body {
 .boxcontent {
     margin: 10px;
     justify-content: center;
-    border-radius: 10 px;
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 4px 10px rgb(255, 255, 255);
     background-color: blueviolet;
     margin: auto;
-    width: 75%;
+    width: 60%;
+    height: 40%;
     padding: 100px;
     position: absolute;
     top: 150px;;
@@ -33,11 +34,10 @@ body {
     margin: auto;
 }
 
-
-
 h1{
     text-shadow: 1px 1px 5px rgb(0, 0, 0);;
 }
+
 a{
     color:blanchedalmond;
     text-decoration-line: none;
